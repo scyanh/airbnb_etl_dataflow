@@ -1,0 +1,7 @@
+.DS_Store
+*-key.json
+.venv/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
